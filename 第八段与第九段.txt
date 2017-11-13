@@ -1,0 +1,164 @@
+<!--== 8. Meet With Us ==--> 
+
+
+
+<section class="meet" id="meet">
+            <div class="container">  
+                <div class="wrapper">
+                    <h2 class="section-title block-title wow animated bounceInRight animated custom-black">meet with us</h2>
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div class="meet-item-bg wow pulse animated text-center">
+                                <div class="meet-item text-center">
+                                    <div class="meet-single-item wow bounceInDown animated">
+                                    <img src="images/m_01.jpg" alt="Meet">
+                                        <div class="meet-icons">
+                                            <a href="#"><i class="custom-icon fa fa-twitter"></i></a>
+                                            <a href="#"><i class="custom-icon fa fa-facebook"></i></a>
+                                            <a href="#"><i class="custom-icon fa fa-google-plus"></i></a>
+                                            <a href="#"><i class="custom-icon fa fa-linkedin"></i></a>
+                                        </div> <!-- /.meet-icons -->
+                                    </div> <!-- /.meet-single-item -->
+                                    <div class="meet-item-content custom-white wow bounceInUp animated">
+                                        <h6 class="meet-item-name">Reen Scot</h6>
+                                        <p class="meet-item-sub custom-black">founder</p>
+                                        <p class="meet-item-about">
+                                            Lorem ipsum dolor sit cadipiscing elit.
+                                        </p>
+                                    </div> <!-- /.meet-item-content -->
+                                </div> <!-- /.meet-item -->
+                            </div> <!-- /.meet-item-bg -->
+                        </div> <!-- /.col-sm-4 -->
+                        <div class="col-sm-4">
+                            <div class="meet-item-bg wow pulse animated text-center">
+                                <div class="meet-item text-center">
+                                    <div class="meet-single-item wow bounceInDown animated">
+                                    <img src="images/m_02.jpg" alt="Meet">
+                                        <div class="meet-icons">
+                                            <a href="#"><i class="custom-icon fa fa-twitter"></i></a>
+                                            <a href="#"><i class="custom-icon fa fa-facebook"></i></a>
+                                            <a href="#"><i class="custom-icon fa fa-google-plus"></i></a>
+                                            <a href="#"><i class="custom-icon fa fa-linkedin"></i></a>
+                                        </div> <!-- /.meet-icons -->
+                                    </div> <!-- /.meet-single-item -->
+                                    <div class="meet-item-content custom-white wow bounceInUp animated">
+                                        <h6 class="meet-item-name">Reen Scot</h6>
+                                        <p class="meet-item-sub custom-black">founder</p>
+                                        <p class="meet-item-about">
+                                            Lorem ipsum dolor sit cadipiscing elit.
+                                        </p>
+                                    </div> <!-- /.meet-item-content -->
+                                </div> <!-- /.meet-item -->
+                            </div> <!-- /.meet-item-bg -->
+                        </div> <!-- /.col-sm-4 -->
+                        <div class="col-sm-4">
+                            <div class="meet-item-bg wow pulse animated text-center">
+                                <div class="meet-item text-center">
+                                    <div class="meet-single-item wow bounceInDown animated">
+                                    <img src="images/m_03.jpg" alt="Meet">
+                                        <div class="meet-icons">
+                                            <a href="#"><i class="custom-icon fa fa-twitter"></i></a>
+                                            <a href="#"><i class="custom-icon fa fa-facebook"></i></a>
+                                            <a href="#"><i class="custom-icon fa fa-google-plus"></i></a>
+                                            <a href="#"><i class="custom-icon fa fa-linkedin"></i></a>
+                                        </div> <!-- /.meet-icons -->
+                                    </div> <!-- /.meet-single-item -->
+                                    <div class="meet-item-content custom-white wow bounceInUp animated">
+                                        <h6 class="meet-item-name">Reen Scot</h6>
+                                        <p class="meet-item-sub custom-black">founder</p>
+                                        <p class="meet-item-about">
+                                            Lorem ipsum dolor sit cadipiscing elit.
+                                        </p>
+                                    </div> <!-- /.meet-item-content -->
+                                </div> <!-- /.meet-item -->
+                            </div> <!-- /.meet-item-bg -->
+                        </div> <!-- /.col-sm-4 -->
+                    </div> <!-- /.row -->
+                </div> <!-- /.wrapper -->
+            </div> <!-- /.container -->
+        </section> <!-- /#meet -->  
+
+
+
+
+ <!--== 9. Testimonial ==-->  Ö¤Ã÷
+
+        <section id="testimonial" class="testimonial">
+            <div class="wrapper">
+                <div class="container">  
+                    <div class="testimonial-content">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div id="owl-demo" class="owl-carousel owl-theme">
+                                    <div class="item wrapper custom-white">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <img src="images/test_01.jpg" alt="test">
+                                            </div>
+                                            <div class="col-md-8">
+                                                <h3 class="test-name">Jone doe</h3>
+                                                <p class="name-title">
+                                                    web developer
+                                                </p>
+                                                <p>
+                                                    Lorem Ipsum is simply dummy text of theinting and pesetting industry. Lorem Ipsum has been the 
+                                                </p>
+                                                <p>
+                                                    Ipsum is simply dummy text of theinting and pesetting industry. Lorem Ipsum has been the pesetting doccr.  
+                                                </p>
+                                            </div>
+                                        </div> <!-- /.row -->
+                                    </div> <!-- /.item -->
+                                    <div class="item wrapper custom-white">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <img src="images/test_02.jpg" alt="test">
+                                            </div>
+                                            <div class="col-md-8">
+                                                <h3 class="test-name">Jone doe</h3>
+                                                <p class="name-title">
+                                                    web developer
+                                                </p>
+                                                <p>
+                                                    Lorem Ipsum is simply dummy text of theinting and pesetting industry. Lorem Ipsum has been the 
+                                                </p>
+                                                <p>
+                                                    Ipsum is simply dummy text of theinting and pesetting industry. Lorem Ipsum has been the pesetting doccr.  
+                                                </p>
+                                            </div>
+                                        </div> <!-- /.row -->
+                                    </div> <!-- /.item -->
+                                    <div class="item wrapper custom-white">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <img src="images/test_03.jpg" alt="test">
+                                            </div>
+                                            <div class="col-md-8">
+                                                <h3 class="test-name">Jone doe</h3>
+                                                <p class="name-title">
+                                                    web developer
+                                                </p>
+                                                <p>
+                                                    Lorem Ipsum is simply dummy text of theinting and pesetting industry. Lorem Ipsum has been the 
+                                                </p>
+                                                <p>
+                                                    Ipsum is simply dummy text of theinting and pesetting industry. Lorem Ipsum has been the pesetting doccr.  
+                                                </p>
+                                            </div>
+                                        </div> <!-- /.row -->
+                                    </div> <!-- /.item -->
+                                </div> <!-- /#owl-demo -->   
+                            </div> <!-- /.col-md-6 -->
+                            <div class="col-md-6 clients-logo">
+                                <a href="#"><img src="images/logo_01.png" alt="logo-test" class="img-responsive img-logo"></a>
+                                <a href="#"><img src="images/logo_02.png" alt="logo-test" class="img-responsive img-logo"></a>
+                                <a href="#"><img src="images/logo_03.png" alt="logo-test" class="img-responsive img-logo"></a>
+                                <a href="#"><img src="images/logo_04.png" alt="logo-test" class="img-responsive img-logo"></a>
+                                <a href="#"><img src="images/logo_05.png" alt="logo-test" class="img-responsive img-logo"></a>
+                                <a href="#"><img src="images/logo_06.png" alt="logo-test" class="img-responsive img-logo"></a>
+                            </div> <!-- /.col-md-6 -->
+                        </div> <!-- /.row -->
+                    </div> <!-- /.testimonial-content -->
+                </div> <!-- /.container -->
+            </div> <!-- /.wrapper -->
+        </section> <!-- /#testimonial -->
